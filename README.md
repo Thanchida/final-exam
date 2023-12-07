@@ -7,3 +7,4 @@
 -create class Polygon
 -I try to write program to draw polygon by create a draw_polygon function but it not work
 -I call draw_polygon in simulation function i want to loop in in this function to draw a many polygon but when i run program in just give me a line
+-I DON'T NEED TO PUSH A FILE OOP_POLYDON BUT I DON"T KNOW WHY IT PUSH TO GITHUB. i'm so sorry but please check only file OOP_polygon.

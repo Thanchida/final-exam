@@ -37,12 +37,6 @@ class Polygon:
         turtle.bgcolor('black')
         turtle.tracer(0)
         turtle.colormode(255)
-        print('self.location', self.location)
-        print('self.color', self.color)
-        turtle.speed(0)
-        turtle.bgcolor('black')
-        turtle.tracer(0)
-        turtle.colormode(255)
         for i in range(num_polygon):
             self.draw_polygon(self.color, self.location)
 
